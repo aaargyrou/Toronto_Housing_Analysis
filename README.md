@@ -1,8 +1,5 @@
 # Unit 6 - Pythonic Monopoly
 
-## My Dashboard
-http://localhost:60628
-
 
 ![Toronto at night](Images/toronto.jpg)
 
